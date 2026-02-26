@@ -9,7 +9,7 @@ Modelo CoreML treinado para classificar imagens em três categorias: **dia**, **
 - Acurácia: 99% treino / 97% validação / 100% teste
 
 ## Dataset
-Dataset original: [Day-night Computer Vision Model](https://universe.roboflow.com/emma-feoktistova/day-night-computer-vision-model) por Emma Feoktistova, disponível no Roboflow Universe.
+Dataset original obtido via [Roboflow Universe](https://universe.roboflow.com) — créditos ao autor original conforme `README.dataset.txt` e `README.roboflow.txt` incluídos neste repositório.
 - 3.100 imagens
 - 3 classes: day, night, twilight
 - Licença: consultar README.dataset.txt
