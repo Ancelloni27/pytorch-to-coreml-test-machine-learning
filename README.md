@@ -3,7 +3,7 @@
 Modelo CoreML treinado para classificar imagens em três categorias: **dia**, **noite** e **crepúsculo**.
 
 ## Modelo
-- Arquivo: `dayNightClassification 1.mlmodel`
+- Arquivo: `dayNightClassification.mlmodel`
 - Framework: Apple Create ML + CoreML
 - Feature Extractor: Image Feature Print V2
 - Acurácia: 99% treino / 97% validação / 100% teste
